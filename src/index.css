@@ -22,7 +22,7 @@
   filter: drop-shadow(5px 5px 10px rgb(6, 0, 37));
 }
 .card {
-  background-image: url("public/pictures/3200146.jpg");
+  background-image: url("../pictures/3200146.jpg");
   background-position: center;
   background-size: cover;
   filter: saturate(0.7);
